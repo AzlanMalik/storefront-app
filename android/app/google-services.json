@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370962071015",
+    "project_id": "opticargo-storefront",
+    "storage_bucket": "opticargo-storefront.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370962071015:android:37ddb0b8c2c2d434f8d142",
+        "android_client_info": {
+          "package_name": "com.storefrontapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr31JVz1DYgt6GR95y1JgB7yAatjvGt0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
